@@ -11,3 +11,5 @@ The developer of this code/game is not responsible for any financial losses, per
 - The developer is not liable for any personal, financial, or emotional damages incurred.
 - It is the user's duty to gamble responsibly and within their limits.
 Please Gamble Responsibly. If you are under 21, leave this code/game immediately.
+
+Developer: KING3
